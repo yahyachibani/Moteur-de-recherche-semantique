@@ -6,3 +6,5 @@ seaborn
 scikit-learn
 ipython
 stopwords
+dotenv
+langchain_chroma
