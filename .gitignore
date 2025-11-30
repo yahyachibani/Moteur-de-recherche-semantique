@@ -5,3 +5,4 @@ dataset_BE2/
 __pycache__/
 *.pyc
 
+.env
